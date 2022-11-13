@@ -16,5 +16,7 @@ This project utilized Tableau Public for the presentation and the following Pyth
 ## Dataset
 Open source data set from Kaggle [here](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 
+Time-Series analysis was conducted using a different dataset found [here](https://data.nasdaq.com/data/BCHAIN/MKPRU)
+
 ## Presentation
 Tableau story can be found [here](https://public.tableau.com/app/profile/rachel.dicken/viz/Task6_7HouseSalesAnalysis/HouseSalesAnalysis)
